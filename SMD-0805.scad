@@ -1,6 +1,8 @@
-// @brief  : SMD 0805
-// @author : nimisbert
-// @dimens : [mm]
+/**
+ * @brief  SMD 0805
+ * @author nimisbert
+ * @dims   [mm]
+**/
 
 L = 2.00; // length
 W = 1.25; // width
